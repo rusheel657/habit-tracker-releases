@@ -1,24 +1,24 @@
 {
-  "version": "1.0.7",
-  "notes": "Clearer help when the Mac app can't update itself.",
-  "pub_date": "2026-10-15T20:37:17.886Z",
+  "version": "1.0.8",
+  "notes": "Updates are found without restarting, and turning on notifications on Android shows up straight away.",
+  "pub_date": "2026-10-15T20:42:39.004Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXhHSHJhZEZ6ZDNWamY3QmhTS3RBNVpWM0RudDBKUUl3aWJyRnhKQmk5R0RCdXRVV21oc2sxa0t0RHFUZ3Q4clZ4cFJyem1VZ3d6UGFCUi82UjlseWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDk2NjM1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuNwpaeEx0dmVpdmNERGEzL2s1dzQ0YXNudjdsUlpPV0xJb1hjTU5PUVF0VjlIaGdnQk4yUEhVZFhxZm8yWmNSKzhhZTlUdUVrajAvZXNyb0liMUpBZTdBUT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.7/Habits-1.0.7-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZBaldOWUwwMDNsRXBDTm5JVllPT2hiNk45NUZYWnVYb2E3eFR3amZFNGl0WHhHZDFkbjlzTklZYzlUYXRSYTFkMnlqOU1WZHluaitzeVltZHZlUEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDk2OTU2CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuOApXSFNReFgwdlZYTFVFWjQyQ2gxcFRDOVp5dUtZNmZCZmViWGYyeE5uc1Fwa2xjSmpyK2x0Q29jREhUdDZBcFYrWVkraUFqYnN6Ymdid2JWTGpuMWREZz09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.8/Habits-1.0.8-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXhHSHJhZEZ6ZDNWamY3QmhTS3RBNVpWM0RudDBKUUl3aWJyRnhKQmk5R0RCdXRVV21oc2sxa0t0RHFUZ3Q4clZ4cFJyem1VZ3d6UGFCUi82UjlseWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDk2NjM1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuNwpaeEx0dmVpdmNERGEzL2s1dzQ0YXNudjdsUlpPV0xJb1hjTU5PUVF0VjlIaGdnQk4yUEhVZFhxZm8yWmNSKzhhZTlUdUVrajAvZXNyb0liMUpBZTdBUT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.7/Habits-1.0.7-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZBaldOWUwwMDNsRXBDTm5JVllPT2hiNk45NUZYWnVYb2E3eFR3amZFNGl0WHhHZDFkbjlzTklZYzlUYXRSYTFkMnlqOU1WZHluaitzeVltZHZlUEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDk2OTU2CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuOApXSFNReFgwdlZYTFVFWjQyQ2gxcFRDOVp5dUtZNmZCZmViWGYyeE5uc1Fwa2xjSmpyK2x0Q29jREhUdDZBcFYrWVkraUFqYnN6Ymdid2JWTGpuMWREZz09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.8/Habits-1.0.8-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 10007,
-    "versionName": "1.0.7",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.7/Habits-1.0.7.apk"
+    "versionCode": 10008,
+    "versionName": "1.0.8",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.8/Habits-1.0.8.apk"
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.7/Habits-1.0.7.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.7/Habits-1.0.7.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.8/Habits-1.0.8.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.0.8/Habits-1.0.8.apk"
   }
 }

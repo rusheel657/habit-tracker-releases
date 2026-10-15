@@ -1,24 +1,24 @@
 {
-  "version": "1.1.4",
-  "notes": "In Minimal on phones, More opens a sheet from the bottom.",
-  "pub_date": "2026-10-15T23:51:25.287Z",
+  "version": "1.1.5",
+  "notes": "Friends can see your proof photos, and Privacy now controls proofs and nudges.",
+  "pub_date": "2026-10-15T23:56:22.108Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXlmYWd4T0hXSHEwMloyRVJmc3FXZVpCSzZGOVFkeG5RV3FQdGRhT0cyZWdWK05obEI0YmNISURDNmR6SnBpVlhkQUdVM2svc29pVXlVeDEvOTdIbVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTA4MjgyCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEuNApLY2MvS1lEUExVSjd3NHlsUVdEQ0lqKy9MYUNmc1ErYXNIUjAzWmdsZjRmV0lOQlo4SDBJOHdHNGlVRVV2eHBPdks1WVUyVGNFS3ozSHhjNjkzZHVDZz09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.4/Habits-1.1.4-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXkyK0xxU2dMTXkrUkJ5SnRmd0NFM3RybzM3eEhIbG1qcUt0ODRWWXNSYVBibjNjQTc5SzI4YnZ4N0xtemM1Q2g4MGYxTFRTL0pkRTFoRE8wUzFGakFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTA4NTc5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEuNQplNi9DU3dnZ1F5VXpsWjE2elpSeWNxVFNydzhsU21adjB1U1NzRWJtbWk0dTViZTVRSU81anRTdmQ0ak1aaENQejcyYjhETlBkV3FYenorWFB2RjNCZz09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.5/Habits-1.1.5-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXlmYWd4T0hXSHEwMloyRVJmc3FXZVpCSzZGOVFkeG5RV3FQdGRhT0cyZWdWK05obEI0YmNISURDNmR6SnBpVlhkQUdVM2svc29pVXlVeDEvOTdIbVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTA4MjgyCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEuNApLY2MvS1lEUExVSjd3NHlsUVdEQ0lqKy9MYUNmc1ErYXNIUjAzWmdsZjRmV0lOQlo4SDBJOHdHNGlVRVV2eHBPdks1WVUyVGNFS3ozSHhjNjkzZHVDZz09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.4/Habits-1.1.4-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXkyK0xxU2dMTXkrUkJ5SnRmd0NFM3RybzM3eEhIbG1qcUt0ODRWWXNSYVBibjNjQTc5SzI4YnZ4N0xtemM1Q2g4MGYxTFRTL0pkRTFoRE8wUzFGakFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTA4NTc5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEuNQplNi9DU3dnZ1F5VXpsWjE2elpSeWNxVFNydzhsU21adjB1U1NzRWJtbWk0dTViZTVRSU81anRTdmQ0ak1aaENQejcyYjhETlBkV3FYenorWFB2RjNCZz09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.5/Habits-1.1.5-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 10104,
-    "versionName": "1.1.4",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.4/Habits-1.1.4.apk"
+    "versionCode": 10105,
+    "versionName": "1.1.5",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.5/Habits-1.1.5.apk"
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.4/Habits-1.1.4.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.4/Habits-1.1.4.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.5/Habits-1.1.5.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.1.5/Habits-1.1.5.apk"
   }
 }

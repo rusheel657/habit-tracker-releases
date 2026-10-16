@@ -1,24 +1,24 @@
 {
-  "version": "1.4.4",
-  "notes": "Health Connect no longer ticks habits for you; step progress stays.",
-  "pub_date": "2026-10-16T19:45:05.956Z",
+  "version": "1.4.5",
+  "notes": "Health Connect has been removed.",
+  "pub_date": "2026-10-16T19:49:11.168Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXhCVXlHd3pnN0pBSDRuOWJ3eFZjY09BcWJvKzZ1Mnh1ekUzQkpML1NtSjdoeXU2NFJBNkRjb1FZNTRndEwyQkJaWVR3R3FhcDFnOUNnSERQKzFQV2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc5OTAzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuNAo5WGdlVTAwSHFzN3RMQ2ZvcThmY0t1L2FrSGhxUEh0NzBsdVdnNTVoNVNWU1NsMk0vMWpnY29lRTNmZ29kNjh1L1FxRnBFbFhtR01rbmM3ek5JZmtBQT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.4/Habits-1.4.4-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZ2Z0V2YVVZZUprSGU0TGpFZW9mTWFPZDZ6WUMzVmRzTnhGd3cwcDRvcjFCdmZOc2VaekNsM1BRV2UweFcvQjMzVXRFRHpqcWhjNnlZTUZSQkpRaEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTgwMTQ4CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuNQpzMUlscktnWDExL0VvMDY5b25rbFBuNUh1NUlGbkxtWjFQM3lkM2dHZklGY0Vxd0hqMFd5eG9heUtYcmdhR2JwRlZUZHVxbUl3R0doZXlRcmQwRVZEUT09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.5/Habits-1.4.5-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXhCVXlHd3pnN0pBSDRuOWJ3eFZjY09BcWJvKzZ1Mnh1ekUzQkpML1NtSjdoeXU2NFJBNkRjb1FZNTRndEwyQkJaWVR3R3FhcDFnOUNnSERQKzFQV2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc5OTAzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuNAo5WGdlVTAwSHFzN3RMQ2ZvcThmY0t1L2FrSGhxUEh0NzBsdVdnNTVoNVNWU1NsMk0vMWpnY29lRTNmZ29kNjh1L1FxRnBFbFhtR01rbmM3ek5JZmtBQT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.4/Habits-1.4.4-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZ2Z0V2YVVZZUprSGU0TGpFZW9mTWFPZDZ6WUMzVmRzTnhGd3cwcDRvcjFCdmZOc2VaekNsM1BRV2UweFcvQjMzVXRFRHpqcWhjNnlZTUZSQkpRaEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTgwMTQ4CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuNQpzMUlscktnWDExL0VvMDY5b25rbFBuNUh1NUlGbkxtWjFQM3lkM2dHZklGY0Vxd0hqMFd5eG9heUtYcmdhR2JwRlZUZHVxbUl3R0doZXlRcmQwRVZEUT09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.5/Habits-1.4.5-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 10404,
-    "versionName": "1.4.4",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.4/Habits-1.4.4.apk"
+    "versionCode": 10405,
+    "versionName": "1.4.5",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.5/Habits-1.4.5.apk"
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.4/Habits-1.4.4.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.4/Habits-1.4.4.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.5/Habits-1.4.5.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.5/Habits-1.4.5.apk"
   }
 }

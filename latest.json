@@ -1,24 +1,24 @@
 {
-  "version": "1.4.2",
-  "notes": "Tidier long-term goals with a + button, and Ultra minimal removed.",
-  "pub_date": "2026-10-16T19:34:39.990Z",
+  "version": "1.4.3",
+  "notes": "Tasks with a + button and a Completed section, friend milestone updates, and habit goal due dates.",
+  "pub_date": "2026-10-16T19:42:46.928Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXpLQ2hnbTRZTlBsUEVjejZMMUtNS1pITS9WSXFIaXkwcDdJQkxkcFNGRmlyVnlRUEIxbHN2ajdSWjdZZlAyWnE0MjZUaEFUQWtWdEhDVnBXS2pMQlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc5Mjc3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuMgpic1lvYUFUaHd2Q1F1TnozQ3Bsc0Q2UUFYQWsxcGcxQzMzZk05VXFoRTVXLzBtTTJHVTVyV3lmTTBmQlNoendzUndWUC95cUthMTdIV05OVDNDZXJBQT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.2/Habits-1.4.2-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTdPbXh6bmpYL29kOW4wTjh1MmVWWE9XbzJkNDcwTS9FT29YWS91eEY2eEcvVVNsMWhESEw0WC9aYUFMaVA2RU5oQ2o5dVZldWFyNEl5YVNqL2c4ZlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc5NzY0CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuMwpJd0s5WFZmMDVzZE9mLy9tS0twa0RyajUvb0Z5aVEwZFdtcHBBR2xublU4b1A5NVZhTnZsdU1QS2hWTkU1Y2VHcmJkZ3RTVnNscXhrT0xOMThTN0VBZz09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.3/Habits-1.4.3-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXpLQ2hnbTRZTlBsUEVjejZMMUtNS1pITS9WSXFIaXkwcDdJQkxkcFNGRmlyVnlRUEIxbHN2ajdSWjdZZlAyWnE0MjZUaEFUQWtWdEhDVnBXS2pMQlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc5Mjc3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuMgpic1lvYUFUaHd2Q1F1TnozQ3Bsc0Q2UUFYQWsxcGcxQzMzZk05VXFoRTVXLzBtTTJHVTVyV3lmTTBmQlNoendzUndWUC95cUthMTdIV05OVDNDZXJBQT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.2/Habits-1.4.2-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTdPbXh6bmpYL29kOW4wTjh1MmVWWE9XbzJkNDcwTS9FT29YWS91eEY2eEcvVVNsMWhESEw0WC9aYUFMaVA2RU5oQ2o5dVZldWFyNEl5YVNqL2c4ZlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc5NzY0CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuMwpJd0s5WFZmMDVzZE9mLy9tS0twa0RyajUvb0Z5aVEwZFdtcHBBR2xublU4b1A5NVZhTnZsdU1QS2hWTkU1Y2VHcmJkZ3RTVnNscXhrT0xOMThTN0VBZz09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.3/Habits-1.4.3-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 10402,
-    "versionName": "1.4.2",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.2/Habits-1.4.2.apk"
+    "versionCode": 10403,
+    "versionName": "1.4.3",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.3/Habits-1.4.3.apk"
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.2/Habits-1.4.2.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.2/Habits-1.4.2.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.3/Habits-1.4.3.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.3/Habits-1.4.3.apk"
   }
 }

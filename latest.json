@@ -1,24 +1,24 @@
 {
-  "version": "1.3.6",
-  "notes": "Smoother profile tabs and outlined proof photos.",
-  "pub_date": "2026-10-16T01:59:56.703Z",
+  "version": "1.3.7",
+  "notes": "A livelier meditation screen on phones.",
+  "pub_date": "2026-10-16T02:03:59.911Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTFrYUF2VHMyQ0ExcXRDbFhucGMzcHkrYUpuUU1pamdJV2dIelByclh1OUFWU0FBZ282OXg1ZkpPNTlRTUZVWVhKTG90N3BNNWZ3YzlGQVZYRWdTSkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTE1OTk0CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMuNgpFRU9Ba1JveDFOVURhOWwwMEg1ZE1udEIzY09DUjgrVXlNRW53Zll6aVQ3SnVJOHRSS0lSbmdicUpMWmVUbDQ0VkM3TlVTdU1RLzhmcGdCc0QzTXpCUT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.6/Habits-1.3.6-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcStGS1NnVE1yWFpZN0RHMHY5cHB2SHJUdDR2aGtTbm9yeVh0WitjSFJ6THdSTVFXVVM0YWtIUEhKT0EwK25xV2ZtV0I2NHBRQUtTbXBoVUt5elR0N3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTE2MjM3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMuNwowV3hmQVI4amw4aCt3K2w3Uy9KcjluQXM3TmxXUm1Xc2pLbXd0dUhEVUY5dVQ4dXNWRVVWRHVZaUkxVmRDc2VJZUZFZjl2ZnF2cVd3T29GTWdLZW9EQT09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.7/Habits-1.3.7-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTFrYUF2VHMyQ0ExcXRDbFhucGMzcHkrYUpuUU1pamdJV2dIelByclh1OUFWU0FBZ282OXg1ZkpPNTlRTUZVWVhKTG90N3BNNWZ3YzlGQVZYRWdTSkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTE1OTk0CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMuNgpFRU9Ba1JveDFOVURhOWwwMEg1ZE1udEIzY09DUjgrVXlNRW53Zll6aVQ3SnVJOHRSS0lSbmdicUpMWmVUbDQ0VkM3TlVTdU1RLzhmcGdCc0QzTXpCUT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.6/Habits-1.3.6-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcStGS1NnVE1yWFpZN0RHMHY5cHB2SHJUdDR2aGtTbm9yeVh0WitjSFJ6THdSTVFXVVM0YWtIUEhKT0EwK25xV2ZtV0I2NHBRQUtTbXBoVUt5elR0N3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTE2MjM3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMuNwowV3hmQVI4amw4aCt3K2w3Uy9KcjluQXM3TmxXUm1Xc2pLbXd0dUhEVUY5dVQ4dXNWRVVWRHVZaUkxVmRDc2VJZUZFZjl2ZnF2cVd3T29GTWdLZW9EQT09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.7/Habits-1.3.7-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 10306,
-    "versionName": "1.3.6",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.6/Habits-1.3.6.apk"
+    "versionCode": 10307,
+    "versionName": "1.3.7",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.7/Habits-1.3.7.apk"
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.6/Habits-1.3.6.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.6/Habits-1.3.6.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.7/Habits-1.3.7.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.3.7/Habits-1.3.7.apk"
   }
 }

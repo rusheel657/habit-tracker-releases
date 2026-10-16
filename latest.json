@@ -1,24 +1,24 @@
 {
-  "version": "1.4.0",
-  "notes": "New interface styles (Ultra minimal, One page), Analytics and Settings tabs, a vision board, and today's tasks as a widget. See Changelogs.",
-  "pub_date": "2026-10-16T18:43:00.960Z",
+  "version": "1.4.1",
+  "notes": "Remove friends from the Friends menu or their profile, with a confirmation.",
+  "pub_date": "2026-10-16T18:54:22.366Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXlUZGY0eTdGRVYvblhZTC9aWEJMS0tQUmtzOWdiZmM2enhGaUJSR3JvNWpseVBLNWZoYVQ1Vm1odERKcjBvcTErcFE1TEhNMHBXekFUR0UwaDZieGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc2MTc4CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuMAp3T3NiMFBBUi8wMklpK1FxSnk3bXpHL2hXWkpuK2UrL0lFa0F6Y1JEekFyWTR1NFk2QUNZd0dJanpaU1VFeExYbW13V3hwQ08vZTJhNERHdE1FMytEQT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.0/Habits-1.4.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXhXcDRlWVp5YjhIMEJXZlJQbEhjUDY5bVNpRDVCQk51bkdTSFQzdkgxRC8xWTRJK3J0U2U0RjdlUHpIcGVHNmphY01MSHhtK3J4Z3Z2cXQ3c2Z3UUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc2ODU5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuMQpJUnl4TENIU2tIQ0VYVG9IcVJTOXpmamVWeDdCSFd5VXM5VldwZUlObEl0cHAwclEzL2hJcEVyMk93dndob1Q2NGVXT0RxZUNCWWcxQlBNR1JZZU5DUT09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.1/Habits-1.4.1-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXlUZGY0eTdGRVYvblhZTC9aWEJMS0tQUmtzOWdiZmM2enhGaUJSR3JvNWpseVBLNWZoYVQ1Vm1odERKcjBvcTErcFE1TEhNMHBXekFUR0UwaDZieGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc2MTc4CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuMAp3T3NiMFBBUi8wMklpK1FxSnk3bXpHL2hXWkpuK2UrL0lFa0F6Y1JEekFyWTR1NFk2QUNZd0dJanpaU1VFeExYbW13V3hwQ08vZTJhNERHdE1FMytEQT09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.0/Habits-1.4.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXhXcDRlWVp5YjhIMEJXZlJQbEhjUDY5bVNpRDVCQk51bkdTSFQzdkgxRC8xWTRJK3J0U2U0RjdlUHpIcGVHNmphY01MSHhtK3J4Z3Z2cXQ3c2Z3UUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc2ODU5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjQuMQpJUnl4TENIU2tIQ0VYVG9IcVJTOXpmamVWeDdCSFd5VXM5VldwZUlObEl0cHAwclEzL2hJcEVyMk93dndob1Q2NGVXT0RxZUNCWWcxQlBNR1JZZU5DUT09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.1/Habits-1.4.1-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 10400,
-    "versionName": "1.4.0",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.0/Habits-1.4.0.apk"
+    "versionCode": 10401,
+    "versionName": "1.4.1",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.1/Habits-1.4.1.apk"
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.0/Habits-1.4.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.0/Habits-1.4.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.1/Habits-1.4.1.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.4.1/Habits-1.4.1.apk"
   }
 }

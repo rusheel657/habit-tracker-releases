@@ -1,24 +1,24 @@
 {
-  "version": "1.8.6",
-  "notes": "Habits 1.8.6",
-  "pub_date": "2026-10-17T22:10:13.921Z",
+  "version": "1.8.7",
+  "notes": "Habits 1.8.7",
+  "pub_date": "2026-10-18T06:30:18.297Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZQbERMMStHcS94Y2tEd0NNQUMzQ2FwVDN6dWVrZDNwTXNOMWlKNDc2b3l2VGtTeVMrczB5MFpieWN2OXJpSmdzbVI1Wm9lTE96U2JhbzBwYU9zL1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjc1MDExCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjguNgpabVZkNkp2MFhjSHRrb3ZhR1hEUXVsNDFGU2FsQXpNcjZjZjJLVjcyYlBjbllxTXRQUVorNW1kMHBLT1JHbDJlSjlLcjZpR0pqdkpnVE9mSVZ2N3FDZz09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.6/Habits-1.8.6-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTgrQTlvNi9KZC80OFA1YTlNeWYwbzU3SDJ0TU9jdjlYRm9HNzNuVGN4Sk8yVGpZSzVXZk1JK3ZIeDZ5TGxKRGlpRENrZ2hXQ1plWUU2N2N4MVY1YUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzA1MDE1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjguNwpxQXk0dXE2SkNBZlloUjVsOHRYVUt5ZTJ0bzNkbUN6TllwMlpjVlpaMU95V0dyaGNlZUE5NFRPZUhuaWFodXJMRTlYanJVMWNMcmJSZlF4V0tUUkJDUT09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.7/Habits-1.8.7-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZQbERMMStHcS94Y2tEd0NNQUMzQ2FwVDN6dWVrZDNwTXNOMWlKNDc2b3l2VGtTeVMrczB5MFpieWN2OXJpSmdzbVI1Wm9lTE96U2JhbzBwYU9zL1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjc1MDExCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjguNgpabVZkNkp2MFhjSHRrb3ZhR1hEUXVsNDFGU2FsQXpNcjZjZjJLVjcyYlBjbllxTXRQUVorNW1kMHBLT1JHbDJlSjlLcjZpR0pqdkpnVE9mSVZ2N3FDZz09Cg==",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.6/Habits-1.8.6-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTgrQTlvNi9KZC80OFA1YTlNeWYwbzU3SDJ0TU9jdjlYRm9HNzNuVGN4Sk8yVGpZSzVXZk1JK3ZIeDZ5TGxKRGlpRENrZ2hXQ1plWUU2N2N4MVY1YUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzA1MDE1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjguNwpxQXk0dXE2SkNBZlloUjVsOHRYVUt5ZTJ0bzNkbUN6TllwMlpjVlpaMU95V0dyaGNlZUE5NFRPZUhuaWFodXJMRTlYanJVMWNMcmJSZlF4V0tUUkJDUT09Cg==",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.7/Habits-1.8.7-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 10806,
-    "versionName": "1.8.6",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.6/Habits-1.8.6.apk"
+    "versionCode": 10807,
+    "versionName": "1.8.7",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.7/Habits-1.8.7.apk"
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.6/Habits-1.8.6.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.6/Habits-1.8.6.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.7/Habits-1.8.7.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.8.7/Habits-1.8.7.apk"
   }
 }

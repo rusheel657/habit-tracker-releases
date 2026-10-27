@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXhvcVgzMkd2MjA4WkxMem8vMDh5cEdoUTlLS2I2bkd1WGxNQkpxQ2VFdGVleDAyVnVvQXFsN0N2d0FlWUtaSUp2ZUxJa2FFQ0tPa0hHNy85MGtKMUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM3OTA2CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjExMi4wCkV4bUNUK0FPSmZiNW5MR2ZaNEhTZENHSitBQUdxKzBhVkFmUkhnRGNpemdIZXJhWEV6MzF0YkpLZ2VaeGV1WlN6a3VHWjU4NlZaWjBOem9reDRza0N3PT0K",
       "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.112.0/Habits-1.112.0-mac-update.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTRoZXAvRW0xS3pPd2UvNVpieUJwcTNQWEh5MnA0ODdzaUNQZjVMUVFhalNCckF1Q3d1c29BeHk2dGE1ZEhaUXRGOHlyb09JRnIzNE4wbHRybDY4a2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM4MTI1CWZpbGU6SGFiaXRzXzEuMTEyLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMTEyLjAKcEJXSmNpSS9JYTZCdnhjSWl4MDdsZHBPcittQ1FEc3Y4ZlFTNFV4WENuOVF2RmhzTTVDOHBaQlF0ejhjVjVPek9ZL1JpYi9GZDFqNGl4elBSQ2UwQXc9PQo=",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.112.0/Habits-1.112.0-setup.exe"
     }
   },
   "android": {
@@ -19,6 +23,7 @@
   },
   "downloads": {
     "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.112.0/Habits-1.112.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.112.0/Habits-1.112.0.apk"
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.112.0/Habits-1.112.0.apk",
+    "windows": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.112.0/Habits-1.112.0-setup.exe"
   }
 }

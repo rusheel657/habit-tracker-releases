@@ -1,29 +1,29 @@
 {
-  "version": "1.184.0",
-  "notes": "Habits 0.1.184",
-  "pub_date": "2026-10-29T13:04:29.904Z",
+  "version": "1.185.0",
+  "notes": "Habits 0.1.185",
+  "pub_date": "2026-10-29T13:22:41.330Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTlxNEZSd0FjYXRHaFc3emFxdEtGMWhONjNIUjZiVWg4UmdINkxtQUxwMXJOOE5zN28rWkZVcXZGeHplaE9mYWN5R1pFWXpUa1p1RXZxNU9MQ0R2a2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjc5MDY1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjE4NC4wClVJVzJnZjVVWjRCRzNPdXhIQ2RUaUtWeFZuZVBRMkdGYUhMOWtITzNFaVY1UG5rSTg0bVlIL3ZtclAvRk5ENTBZeFpGTm5WaTF1VWlDZU1pSjJndUNRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.184.0/Habits-1.184.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTNlM1dRd0ZRQnFiemhVUGpSOVlweUtMS3dLUUo5QTlSWFpZWlB4Z1BwNzVndFRxY0QvRi9mMDRGMEpyRmhmNjg2czVxaEoxQWNjbjNFSVhoZnVkQWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjgwMTUzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjE4NS4wCkZhMk1FTnI1SnZFa3h4eXVMSDFyTitUa25xWWJHTEQrVXIzZFFzWUJqZjdNOHZyeHlEN1JvbFN0VkRhOVc5aG84em1GSldTN2dGZUMvSXN3UDl2RUNRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.185.0/Habits-1.185.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTlxNEZSd0FjYXRHaFc3emFxdEtGMWhONjNIUjZiVWg4UmdINkxtQUxwMXJOOE5zN28rWkZVcXZGeHplaE9mYWN5R1pFWXpUa1p1RXZxNU9MQ0R2a2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjc5MDY1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjE4NC4wClVJVzJnZjVVWjRCRzNPdXhIQ2RUaUtWeFZuZVBRMkdGYUhMOWtITzNFaVY1UG5rSTg0bVlIL3ZtclAvRk5ENTBZeFpGTm5WaTF1VWlDZU1pSjJndUNRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.184.0/Habits-1.184.0-mac-update.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcThBdzBKelB6QUNMeGZ2R0djQ2tEbUx4UUZaUy9zeGwxT0oxTWtlYzBvYWU5Rkl3Y3pqb2RvbzFzVWNXcWc2Qm5pS2VEa0h6RlFuRWlpMzY5N01ZendnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjc5Mzk1CWZpbGU6SGFiaXRzXzEuMTg0LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMTg0LjAKcTRwU2ZKMTErOURhTUt3OVlBRmEwQlZsSUJUV0cyNUtRbnhFcDhJS2NYMjZZdDdzRUFrdnJpcUx3MzRPejRpZUswSFdVZE5mdlNsTWhIWC80OXRaQnc9PQo=",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.184.0/Habits-1.184.0-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTNlM1dRd0ZRQnFiemhVUGpSOVlweUtMS3dLUUo5QTlSWFpZWlB4Z1BwNzVndFRxY0QvRi9mMDRGMEpyRmhmNjg2czVxaEoxQWNjbjNFSVhoZnVkQWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjgwMTUzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjE4NS4wCkZhMk1FTnI1SnZFa3h4eXVMSDFyTitUa25xWWJHTEQrVXIzZFFzWUJqZjdNOHZyeHlEN1JvbFN0VkRhOVc5aG84em1GSldTN2dGZUMvSXN3UDl2RUNRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.185.0/Habits-1.185.0-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 1184000,
-    "versionName": "0.1.184",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.184.0/Habits-1.184.0.apk"
+    "versionCode": 1185000,
+    "versionName": "0.1.185",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.185.0/Habits-1.185.0.apk",
+    "bundle": {
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.185.0/Habits-1.185.0-web.zip",
+      "sha256": "0a4d36bc2c38abd51f1f801a579a35ac4547c53cf8b5c015693a18f774beb7f9",
+      "minBuild": 1185000
+    }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.184.0/Habits-1.184.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.184.0/Habits-1.184.0.apk",
-    "windows": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.184.0/Habits-1.184.0-setup.exe"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.185.0/Habits-1.185.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.185.0/Habits-1.185.0.apk"
   }
 }

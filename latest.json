@@ -1,29 +1,29 @@
 {
-  "version": "1.211.0",
-  "notes": "Habits 0.1.211",
-  "pub_date": "2026-10-30T11:28:39.678Z",
+  "version": "1.212.0",
+  "notes": "Habits 0.1.212",
+  "pub_date": "2026-10-30T11:33:34.949Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXdCcmY4NkVMUklPdzZjYUkraFRiQ3l4Ymx1N1g0SWZKNUxnSUlsQ1NUWjROK0hxYWk5VnlJY1l2ODk0NE00bUxyRVlWSVNkaHEweHdrSmxwU2svRWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU5NzE2CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIxMS4wCk41VW5ERHhiaUt0aGNKTGl2bUE3ZFNLRWhydno2OEQyQlkvU3VlQXVud2tGTGdNVzRMN1FKblVoZnEwMVNuY1lsUTRpa0FFNVlMcDlLLzR5TmVlZUFRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.211.0/Habits-1.211.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTIrQUl5L0txcEhhck84UXc4azNRVnM1MDlqV0d5T2tIOFVLWEhEYlREY2dvcnJHcmpVK0Foa0RuT0hCc2lKUzltMDlYVitkQzhPWUM1cmN2SytPb3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzYwMDExCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIxMi4wCnQ4SE1NRVc5WmxjaXBJdUIrbmxHYnBFR1pTSlVESUl2ZGV0d0dYUVNnbUdWdzFKeVpyU2swdWFma1E0dUtXa3IrM0dsUWdJMWtBN0Mva0lHUmJSd0FRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.212.0/Habits-1.212.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXdCcmY4NkVMUklPdzZjYUkraFRiQ3l4Ymx1N1g0SWZKNUxnSUlsQ1NUWjROK0hxYWk5VnlJY1l2ODk0NE00bUxyRVlWSVNkaHEweHdrSmxwU2svRWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU5NzE2CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIxMS4wCk41VW5ERHhiaUt0aGNKTGl2bUE3ZFNLRWhydno2OEQyQlkvU3VlQXVud2tGTGdNVzRMN1FKblVoZnEwMVNuY1lsUTRpa0FFNVlMcDlLLzR5TmVlZUFRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.211.0/Habits-1.211.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTIrQUl5L0txcEhhck84UXc4azNRVnM1MDlqV0d5T2tIOFVLWEhEYlREY2dvcnJHcmpVK0Foa0RuT0hCc2lKUzltMDlYVitkQzhPWUM1cmN2SytPb3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzYwMDExCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIxMi4wCnQ4SE1NRVc5WmxjaXBJdUIrbmxHYnBFR1pTSlVESUl2ZGV0d0dYUVNnbUdWdzFKeVpyU2swdWFma1E0dUtXa3IrM0dsUWdJMWtBN0Mva0lHUmJSd0FRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.212.0/Habits-1.212.0-mac-update.app.tar.gz"
     }
   },
   "android": {
     "versionCode": 1203000,
-    "versionName": "0.1.211",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.211.0/Habits-1.211.0.apk",
+    "versionName": "0.1.212",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.212.0/Habits-1.212.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.211.0/Habits-1.211.0-web.zip",
-      "sha256": "b1fc5fa4b66aef37205d51baed80f68de1597759fbe84198438f26eb8fe28421",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.212.0/Habits-1.212.0-web.zip",
+      "sha256": "7a86b85a6e4bde40233582b81f63ef9fc3b5d206291ae3ecf289b9661256ff03",
       "minBuild": 1203000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.211.0/Habits-1.211.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.211.0/Habits-1.211.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.212.0/Habits-1.212.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.212.0/Habits-1.212.0.apk"
   }
 }

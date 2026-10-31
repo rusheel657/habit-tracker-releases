@@ -1,29 +1,29 @@
 {
-  "version": "1.227.0",
-  "notes": "Default V2: a new theme in Appearance, the Food · Gym · Shop look (black and white, rings, a round + on Today). Setup: account at the end, your plan, save your progress with Google or email.",
-  "pub_date": "2026-10-31T00:34:36.597Z",
+  "version": "1.228.0",
+  "notes": "Habits 0.1.228",
+  "pub_date": "2026-10-31T01:01:12.993Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZyWVdjSVJHU0U5QmpucEVTZURLREh6NEllNXJKNWdYdGRyUVZLSURJTHdDRHZnMy9BSEZOemVxenhTcERrZlljWlc5b2R4ak1WUS9TaUZubzBvOUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA2ODcxCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIyNy4wClBwWjhwUVNUYXNnUFZtYU9UOVB6QTFOcFpxTnF3RXFqY01WRnVjOFNWODk1Q3JJK0lGdGJ2KzIxZ1ZSNm9oMExERE9iWk5kRG4rTUQ3aDFCSzVkSUJ3PT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.227.0/Habits-1.227.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTNob0pTbnJML2RQam1HK091V1lscHBOS3pVdjVFUlFwZmJwOW13MUQ4VkFYYU1nWkhhUFE2bGN4Sm5QRXdaSWdCMCsrdEc1dm96bHorSk9VRTlwMVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA4NDY5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIyOC4wCmxBQmVZU3liZithWnZkMHFpNGxjNXQvQmNWZDJBOFJpYzRkRkxMUUg3UGgvLzZ3K1piSzhXL1hmWnpyWmVnMm5ZTXNXd1d4MXg5NElaMzBYczE2NURBPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.228.0/Habits-1.228.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZyWVdjSVJHU0U5QmpucEVTZURLREh6NEllNXJKNWdYdGRyUVZLSURJTHdDRHZnMy9BSEZOemVxenhTcERrZlljWlc5b2R4ak1WUS9TaUZubzBvOUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA2ODcxCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIyNy4wClBwWjhwUVNUYXNnUFZtYU9UOVB6QTFOcFpxTnF3RXFqY01WRnVjOFNWODk1Q3JJK0lGdGJ2KzIxZ1ZSNm9oMExERE9iWk5kRG4rTUQ3aDFCSzVkSUJ3PT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.227.0/Habits-1.227.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTNob0pTbnJML2RQam1HK091V1lscHBOS3pVdjVFUlFwZmJwOW13MUQ4VkFYYU1nWkhhUFE2bGN4Sm5QRXdaSWdCMCsrdEc1dm96bHorSk9VRTlwMVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA4NDY5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIyOC4wCmxBQmVZU3liZithWnZkMHFpNGxjNXQvQmNWZDJBOFJpYzRkRkxMUUg3UGgvLzZ3K1piSzhXL1hmWnpyWmVnMm5ZTXNXd1d4MXg5NElaMzBYczE2NURBPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.228.0/Habits-1.228.0-mac-update.app.tar.gz"
     }
   },
   "android": {
     "versionCode": 1225000,
-    "versionName": "0.1.227",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.227.0/Habits-1.227.0.apk",
+    "versionName": "0.1.228",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.228.0/Habits-1.228.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.227.0/Habits-1.227.0-web.zip",
-      "sha256": "41d247084f29bb9159b821cde733712641587eed6f559303faf6277bb71f96c2",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.228.0/Habits-1.228.0-web.zip",
+      "sha256": "c2057b97141d26f8f390301518471c74121dfa4d121c22c0ad21de3e799cae32",
       "minBuild": 1225000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.227.0/Habits-1.227.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.227.0/Habits-1.227.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.228.0/Habits-1.228.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.228.0/Habits-1.228.0.apk"
   }
 }

@@ -1,29 +1,29 @@
 {
-  "version": "1.302.0",
-  "notes": "Calmer tab bar: outline icons that brighten when picked, a small bounce, no sliding bubble",
-  "pub_date": "2026-11-02T06:51:27.590Z",
+  "version": "1.303.0",
+  "notes": "Tab bar bubble fades across to the tab you tap",
+  "pub_date": "2026-11-02T07:02:44.671Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTE3eVlRTkJ1dHN1NVZEaE1LUW1MMHp2bU5aRVhFNXoxSFo1WVo5dHp5WDV6MTRzUWM3WUsxcE5BcmdyZ3liYUZoUHNLL3ZtY1FrRmVoUi9MUlUzQXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjAyMjc5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMwMi4wCnNKVG9admNnOGIvekszMEtxOFgzbDFOdGN1V2lTUjZHbVNRVXcrSUFJZG83dE0rYjBSbTJ2ZlFHMmFUVHpqVDZ4SlNRZHUreGROOGJwZTFFVEgvV0NBPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.302.0/Habits-1.302.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTBMYlRSWDA1K21iYUpMemcrNDJnR2FpMXdoOERYRG5jQkplTDBLUXpFYzFxbEdaWHF3anVTVllDQVdkRXdFZFJwK1FiNThHOTVOa2FHSDNKd3BkN3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjAyOTU5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMwMy4wCm43R2x1eUdQa1FGeVZOTkR2T0ZYd3pVWkl2QjlWRHZMakhrcnA3K2twa1hiL1Z1SFpBZGVCTk0yRzVoWUREZWNYL1czU0NzajRucWNObTlPMFRtZEFnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.303.0/Habits-1.303.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTE3eVlRTkJ1dHN1NVZEaE1LUW1MMHp2bU5aRVhFNXoxSFo1WVo5dHp5WDV6MTRzUWM3WUsxcE5BcmdyZ3liYUZoUHNLL3ZtY1FrRmVoUi9MUlUzQXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjAyMjc5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMwMi4wCnNKVG9admNnOGIvekszMEtxOFgzbDFOdGN1V2lTUjZHbVNRVXcrSUFJZG83dE0rYjBSbTJ2ZlFHMmFUVHpqVDZ4SlNRZHUreGROOGJwZTFFVEgvV0NBPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.302.0/Habits-1.302.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTBMYlRSWDA1K21iYUpMemcrNDJnR2FpMXdoOERYRG5jQkplTDBLUXpFYzFxbEdaWHF3anVTVllDQVdkRXdFZFJwK1FiNThHOTVOa2FHSDNKd3BkN3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjAyOTU5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMwMy4wCm43R2x1eUdQa1FGeVZOTkR2T0ZYd3pVWkl2QjlWRHZMakhrcnA3K2twa1hiL1Z1SFpBZGVCTk0yRzVoWUREZWNYL1czU0NzajRucWNObTlPMFRtZEFnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.303.0/Habits-1.303.0-mac-update.app.tar.gz"
     }
   },
   "android": {
     "versionCode": 1300000,
-    "versionName": "0.1.302",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.302.0/Habits-1.302.0.apk",
+    "versionName": "0.1.303",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.303.0/Habits-1.303.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.302.0/Habits-1.302.0-web.zip",
-      "sha256": "29ae0188538203773ec1f823de17421095eb5ecdef101b819df362d09bdf0495",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.303.0/Habits-1.303.0-web.zip",
+      "sha256": "a93bbd7ed2afde7f4a2bdf3b7f656b51b6f6d8b63e8d23221565073a461c06f5",
       "minBuild": 1300000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.302.0/Habits-1.302.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.302.0/Habits-1.302.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.303.0/Habits-1.303.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.303.0/Habits-1.303.0.apk"
   }
 }

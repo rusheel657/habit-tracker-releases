@@ -1,29 +1,29 @@
 {
-  "version": "1.300.0",
-  "notes": "Milestones, freezes from milestones, a new setup, theme previews, section timers, screen-time habits and lots of polish",
-  "pub_date": "2026-11-02T05:13:28.211Z",
+  "version": "1.301.0",
+  "notes": "Food · Gym · Shop tab bar, Needs attention after an earlier habit, Lightning background, ended shared goals move to Past, completion goals count days, readable Manage subscription",
+  "pub_date": "2026-11-02T06:25:37.361Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXpXaStxcEVndVFIT0NLWWYzUGU1eXJVL0U4SUVWYk4xL3BpK0JpajRUQmY5MWtxTHQxVlMrWEJ5cVU0WmlFcDBMRitVR1Z5U3VYMFdrdTIzWHc0endzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTk2Mzk1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMwMC4wCjVVNUpzVElmdkFXY3h1OHhMaHQ5dlRYa29iQmxyMDNDUncyaUo2QnJZSFRxUHIwV0RTdXBvSFRWKzZrNEhEbzg3Z2F4Ykl6VmcrcGxkaG1DYkNoNEN3PT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.300.0/Habits-1.300.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTVmMkF4VnJDSkNzdS8rc0txSWxLbEZGWThEQVhIZkRISXhVREVITFJPYVRLQUJQSFVGV3k0bmZ1VmR1czFiOVFRUEIxZEQrTm9qOUVQdXdud0RPK2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjAwNzI5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMwMS4wCko5WUdMS1V5aUVCcWZiM3d1ck8xSnFieUVVUU5mcCthVXlHaEU1YUE2dnN3VCs3Q3M3Um1qSHdZWUFSMWY4RHNIWklETlozK2NidGkwWUxmZFJubUF3PT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.301.0/Habits-1.301.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXpXaStxcEVndVFIT0NLWWYzUGU1eXJVL0U4SUVWYk4xL3BpK0JpajRUQmY5MWtxTHQxVlMrWEJ5cVU0WmlFcDBMRitVR1Z5U3VYMFdrdTIzWHc0endzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTk2Mzk1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMwMC4wCjVVNUpzVElmdkFXY3h1OHhMaHQ5dlRYa29iQmxyMDNDUncyaUo2QnJZSFRxUHIwV0RTdXBvSFRWKzZrNEhEbzg3Z2F4Ykl6VmcrcGxkaG1DYkNoNEN3PT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.300.0/Habits-1.300.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTVmMkF4VnJDSkNzdS8rc0txSWxLbEZGWThEQVhIZkRISXhVREVITFJPYVRLQUJQSFVGV3k0bmZ1VmR1czFiOVFRUEIxZEQrTm9qOUVQdXdud0RPK2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjAwNzI5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMwMS4wCko5WUdMS1V5aUVCcWZiM3d1ck8xSnFieUVVUU5mcCthVXlHaEU1YUE2dnN3VCs3Q3M3Um1qSHdZWUFSMWY4RHNIWklETlozK2NidGkwWUxmZFJubUF3PT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.301.0/Habits-1.301.0-mac-update.app.tar.gz"
     }
   },
   "android": {
     "versionCode": 1300000,
-    "versionName": "0.1.300",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.300.0/Habits-1.300.0.apk",
+    "versionName": "0.1.301",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.301.0/Habits-1.301.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.300.0/Habits-1.300.0-web.zip",
-      "sha256": "39433a2f045af827e84a8088675b0698c12540c1f23fd53e58a9f76062a8b303",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.301.0/Habits-1.301.0-web.zip",
+      "sha256": "824c31eb65cb29a624324fd9c7fea33d3fda4b022bac0f250fef94b80ae9018c",
       "minBuild": 1300000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.300.0/Habits-1.300.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.300.0/Habits-1.300.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.301.0/Habits-1.301.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.301.0/Habits-1.301.0.apk"
   }
 }

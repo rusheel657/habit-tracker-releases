@@ -1,29 +1,29 @@
 {
-  "version": "1.314.0",
-  "notes": "Welcome back after time away, partner invite in setup, free reminders and history, gentler nudges, Sign in with Apple, privacy and support updates, signed Mac app",
-  "pub_date": "2026-11-03T17:37:05.741Z",
+  "version": "1.315.0",
+  "notes": "New app icon: the same arrow, now gold on charcoal",
+  "pub_date": "2026-11-03T19:14:29.743Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTl4dGFPTDVlZ0JYQU5oOEp6aE02NnBBcloxOUNtRW9jVmwyejBBZ3dFZFYvZmZaZVU3YVJGaTNJSW9Xb3gxYXJsQlhWdmk1VUdyQjV3VXFLancwTFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzI3Mzg3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxNC4wClBqNDgvazFVY25sVlVyMVRqUGoxaXlTVlZqN2RuZmZBdWFBRjBZbUdXNU4wN2dxdVErZzlGZjRKaW1GVm54VnRIQi8yZWQwNVpDdG1Pbm1JTVA1Z0RBPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.314.0/Habits-1.314.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTBmamt1YjlaQllDTmdTR0hSbUd1eitOSXZwMzV2V0lHb3FJczNqV0d6ZCtYSW5VUkhPRjVkL3RRdlBrK2FhMEhQT3FxRFhabkhXdnFvcVNjbkhmY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzMzMjMzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxNS4wCitIZE82QXJCTHRGMXh2U2ZnVWtaOUh6eVB4UlUvZnN2NE9MUi8zeU5LancwMUN2VHd5UHJJc09VYnRBOEU4S0VMeUFXRE4yQU9LbkNGb0FxSitmZEJRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTl4dGFPTDVlZ0JYQU5oOEp6aE02NnBBcloxOUNtRW9jVmwyejBBZ3dFZFYvZmZaZVU3YVJGaTNJSW9Xb3gxYXJsQlhWdmk1VUdyQjV3VXFLancwTFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzI3Mzg3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxNC4wClBqNDgvazFVY25sVlVyMVRqUGoxaXlTVlZqN2RuZmZBdWFBRjBZbUdXNU4wN2dxdVErZzlGZjRKaW1GVm54VnRIQi8yZWQwNVpDdG1Pbm1JTVA1Z0RBPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.314.0/Habits-1.314.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTBmamt1YjlaQllDTmdTR0hSbUd1eitOSXZwMzV2V0lHb3FJczNqV0d6ZCtYSW5VUkhPRjVkL3RRdlBrK2FhMEhQT3FxRFhabkhXdnFvcVNjbkhmY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzMzMjMzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxNS4wCitIZE82QXJCTHRGMXh2U2ZnVWtaOUh6eVB4UlUvZnN2NE9MUi8zeU5LancwMUN2VHd5UHJJc09VYnRBOEU4S0VMeUFXRE4yQU9LbkNGb0FxSitmZEJRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 1312000,
-    "versionName": "0.1.314",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.314.0/Habits-1.314.0.apk",
+    "versionCode": 1315000,
+    "versionName": "0.1.315",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.314.0/Habits-1.314.0-web.zip",
-      "sha256": "e9f2475e73cbb73c81e8f31237057520566b8d54d27d040689f768927d179880",
-      "minBuild": 1312000
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0-web.zip",
+      "sha256": "4b3dfe324fa3d1abf8429099fd00e444256aed207c528ece709c71cc731287a2",
+      "minBuild": 1315000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.314.0/Habits-1.314.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.314.0/Habits-1.314.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0.apk"
   }
 }

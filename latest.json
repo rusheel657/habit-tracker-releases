@@ -1,29 +1,29 @@
 {
-  "version": "1.315.0",
-  "notes": "New app icon: the same arrow, now gold on charcoal",
-  "pub_date": "2026-11-03T19:14:29.743Z",
+  "version": "1.316.0",
+  "notes": "AI report in Analytics: your week read by AI, with one-tap changes, and questions about your habits",
+  "pub_date": "2026-11-04T01:05:46.796Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTBmamt1YjlaQllDTmdTR0hSbUd1eitOSXZwMzV2V0lHb3FJczNqV0d6ZCtYSW5VUkhPRjVkL3RRdlBrK2FhMEhQT3FxRFhabkhXdnFvcVNjbkhmY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzMzMjMzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxNS4wCitIZE82QXJCTHRGMXh2U2ZnVWtaOUh6eVB4UlUvZnN2NE9MUi8zeU5LancwMUN2VHd5UHJJc09VYnRBOEU4S0VMeUFXRE4yQU9LbkNGb0FxSitmZEJRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTlhSkFPUVN4QXhCZkY5Ti9xSkZVc1FDejRtdU5yMHYxOVlXN1RSYW9CUnZKOXQzY0t0UWYxOUlVTjR1cnFNTU10RUJyYWZPaU0xSUliUGxhYkswbWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzU0MzA3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxNi4wCmpWUGF2ZHFSQkVYTFAvTSs4b2RITHY3aStLdnRTbGQ5dGVXTzdrZWlBNzQxQXhHT1BuMVcvVlFZelNWa2VCUHFVM2lUOVhTNS9xd1BVcmVFTjY3TEJBPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.316.0/Habits-1.316.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTBmamt1YjlaQllDTmdTR0hSbUd1eitOSXZwMzV2V0lHb3FJczNqV0d6ZCtYSW5VUkhPRjVkL3RRdlBrK2FhMEhQT3FxRFhabkhXdnFvcVNjbkhmY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzMzMjMzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxNS4wCitIZE82QXJCTHRGMXh2U2ZnVWtaOUh6eVB4UlUvZnN2NE9MUi8zeU5LancwMUN2VHd5UHJJc09VYnRBOEU4S0VMeUFXRE4yQU9LbkNGb0FxSitmZEJRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTlhSkFPUVN4QXhCZkY5Ti9xSkZVc1FDejRtdU5yMHYxOVlXN1RSYW9CUnZKOXQzY0t0UWYxOUlVTjR1cnFNTU10RUJyYWZPaU0xSUliUGxhYkswbWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzU0MzA3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxNi4wCmpWUGF2ZHFSQkVYTFAvTSs4b2RITHY3aStLdnRTbGQ5dGVXTzdrZWlBNzQxQXhHT1BuMVcvVlFZelNWa2VCUHFVM2lUOVhTNS9xd1BVcmVFTjY3TEJBPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.316.0/Habits-1.316.0-mac-update.app.tar.gz"
     }
   },
   "android": {
     "versionCode": 1315000,
-    "versionName": "0.1.315",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0.apk",
+    "versionName": "0.1.316",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.316.0/Habits-1.316.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0-web.zip",
-      "sha256": "4b3dfe324fa3d1abf8429099fd00e444256aed207c528ece709c71cc731287a2",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.316.0/Habits-1.316.0-web.zip",
+      "sha256": "13361c7965c5256965a5acdd8ea663f844d6f11e13c8b5362f58ebe0d280d70e",
       "minBuild": 1315000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.315.0/Habits-1.315.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.316.0/Habits-1.316.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.316.0/Habits-1.316.0.apk"
   }
 }

@@ -1,29 +1,29 @@
 {
-  "version": "1.322.0",
-  "notes": "Diamond theme, Lightning storm, liquid Gold, Inferno fire tabs, Sakura tree in Breathe, counting numbers back, tab icon square fixed",
-  "pub_date": "2026-11-05T19:58:51.678Z",
+  "version": "1.323.0",
+  "notes": "Smoother Android: a native tab bar, pull to refresh, date pickers, messages and back swipe. Weekly ticks stay on Today, New section scrolls to itself, and round day circles.",
+  "pub_date": "2026-11-05T23:45:59.009Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZ4SzdIUW9BbmhVc2s5T2hrK0ttS1Q1TUVmdTR6TUdyTmdUcHdpbmFOb1hHN3VERGhRNE9TZFVyL2N1eWVIZjhjdDAyd2JlZGxRRmF6ZzhpeGZXL2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA4Njc2CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMi4wClhLMzFvL1RLWFdlaUxjdndkdk5Gb1BveTlteDVOOGpSQmQ1Y2RTQW9IMFhRSHFJSysrRjBFUGlKVU9Qa3ltaUtlek9qNytjbkRQWTN2UWh4Y1V4SERRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.322.0/Habits-1.322.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcS9Hdm52dlhxWW1ITXBPcHZlaUF6aDlTSmdLU0kySTlqTjFNWnRQeXZ2bTZUOG1nV2tvZE1JNWFmSWZPTi91Y1ZXVnc4S1ljK1FiUjVVV0t0ZjJlTEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIyMzE3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMy4wClVTUTJpN05PUWduNGptd0s1VVdMb0MybFBqMWhwMm5zdDJSL2NlMjFFeEVSbTlsSzYxZmtCUE5QalpUNDlyenNTYTMzMHF1UDV4M2xURE1wN01NS0JnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.323.0/Habits-1.323.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZ4SzdIUW9BbmhVc2s5T2hrK0ttS1Q1TUVmdTR6TUdyTmdUcHdpbmFOb1hHN3VERGhRNE9TZFVyL2N1eWVIZjhjdDAyd2JlZGxRRmF6ZzhpeGZXL2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA4Njc2CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMi4wClhLMzFvL1RLWFdlaUxjdndkdk5Gb1BveTlteDVOOGpSQmQ1Y2RTQW9IMFhRSHFJSysrRjBFUGlKVU9Qa3ltaUtlek9qNytjbkRQWTN2UWh4Y1V4SERRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.322.0/Habits-1.322.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcS9Hdm52dlhxWW1ITXBPcHZlaUF6aDlTSmdLU0kySTlqTjFNWnRQeXZ2bTZUOG1nV2tvZE1JNWFmSWZPTi91Y1ZXVnc4S1ljK1FiUjVVV0t0ZjJlTEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIyMzE3CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMy4wClVTUTJpN05PUWduNGptd0s1VVdMb0MybFBqMWhwMm5zdDJSL2NlMjFFeEVSbTlsSzYxZmtCUE5QalpUNDlyenNTYTMzMHF1UDV4M2xURE1wN01NS0JnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.323.0/Habits-1.323.0-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 1321000,
-    "versionName": "0.1.322",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.322.0/Habits-1.322.0.apk",
+    "versionCode": 1323000,
+    "versionName": "0.1.323",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.323.0/Habits-1.323.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.322.0/Habits-1.322.0-web.zip",
-      "sha256": "530ac0ed54ebc74c378a05b401fa2c859923e706c26b07103f3fc8231d7f6dfb",
-      "minBuild": 1321000
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.323.0/Habits-1.323.0-web.zip",
+      "sha256": "484e7a99aee2b9e67df31085a959eea68d362e78e484f81ddb998bddbb66ea83",
+      "minBuild": 1323000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.322.0/Habits-1.322.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.322.0/Habits-1.322.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.323.0/Habits-1.323.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.323.0/Habits-1.323.0.apk"
   }
 }

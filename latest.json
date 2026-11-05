@@ -1,29 +1,29 @@
 {
-  "version": "1.320.0",
-  "notes": "Minimalism by default, calmer Today, Reminders-style Tasks, bolder colours, graphite icon",
-  "pub_date": "2026-11-05T01:12:13.062Z",
+  "version": "1.321.0",
+  "notes": "Goo tabs, one-tap Breathe widget and controls, charcoal icon, Minimalism, animation polish",
+  "pub_date": "2026-11-05T02:43:23.088Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTYyYlo4dDRxbi93R2Z4c1I1Y0xTMWNWRnRMSDFld1FkZUk5M3prcXo3OUIvU0hTbEhtdjlyVmx4bHRXRkZtcXNzRGs3S3BtNGhTWFJqcW1FTjg5cFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQxMDY5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMC4wCklsZzV6dWltU3JhSXpFcUwrQ1VCYldhSERQUHIraElzQTRoaUV4ZHBiZnprRmF6YlBoMVNoWnMrc1Jxdld4bjd5Q0FtVUdvTC9hTE1ST3NjSVI0aUFBPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcS9MT2lIRldIb2lRNEJEY2RwdG1YMmQyRU4vSWdLSHBRZWQwMnpWanlpdmI3Y01qNjJmMFoyY200dWhBZ1hGMzhQanJDME5IWWo2NHR4TGgvWVB2WkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ2NTYyCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMS4wClpFOXEvbjJnczZuUkhhRHgvQk5xdDZPSDBiQktVdkVSVzhHd0lFbWVlNFN2MkFBWUJwaDFhcjhjcmtmcmpFQ0s2VGJlcnJuKytvcFJyZW9wSW54a0RRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.321.0/Habits-1.321.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTYyYlo4dDRxbi93R2Z4c1I1Y0xTMWNWRnRMSDFld1FkZUk5M3prcXo3OUIvU0hTbEhtdjlyVmx4bHRXRkZtcXNzRGs3S3BtNGhTWFJqcW1FTjg5cFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQxMDY5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMC4wCklsZzV6dWltU3JhSXpFcUwrQ1VCYldhSERQUHIraElzQTRoaUV4ZHBiZnprRmF6YlBoMVNoWnMrc1Jxdld4bjd5Q0FtVUdvTC9hTE1ST3NjSVI0aUFBPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcS9MT2lIRldIb2lRNEJEY2RwdG1YMmQyRU4vSWdLSHBRZWQwMnpWanlpdmI3Y01qNjJmMFoyY200dWhBZ1hGMzhQanJDME5IWWo2NHR4TGgvWVB2WkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ2NTYyCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMS4wClpFOXEvbjJnczZuUkhhRHgvQk5xdDZPSDBiQktVdkVSVzhHd0lFbWVlNFN2MkFBWUJwaDFhcjhjcmtmcmpFQ0s2VGJlcnJuKytvcFJyZW9wSW54a0RRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.321.0/Habits-1.321.0-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 1320000,
-    "versionName": "0.1.320",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0.apk",
+    "versionCode": 1321000,
+    "versionName": "0.1.321",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.321.0/Habits-1.321.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0-web.zip",
-      "sha256": "4a41dde7083c5b019cbfb521d7aaecb7335546d6772036e7ff6996605e792e23",
-      "minBuild": 1320000
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.321.0/Habits-1.321.0-web.zip",
+      "sha256": "c9193a71e39957803b69367837abe0195efe6551d717910911a22d72f10a9a57",
+      "minBuild": 1321000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.321.0/Habits-1.321.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.321.0/Habits-1.321.0.apk"
   }
 }

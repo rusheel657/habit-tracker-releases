@@ -1,29 +1,29 @@
 {
-  "version": "1.319.0",
-  "notes": "The apps open on the slideshow; sign in always light",
-  "pub_date": "2026-11-04T20:34:02.738Z",
+  "version": "1.320.0",
+  "notes": "Minimalism by default, calmer Today, Reminders-style Tasks, bolder colours, graphite icon",
+  "pub_date": "2026-11-05T01:12:13.062Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXluS1o2bStZOHNWZHZvNnNZYVovaEJvRE1PZkhnNHRIbVVZYVNaenhZaEVleHRrMHFnNGUvNmV3TjZzSTVDNlhwaDdZT0t4NVMwMDFDYmYrTTNaZGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI0Mzk0CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxOS4wCkt3QVZPRVFBdTd5MTBqTFFIM1ZpendIWTJGZUp5M2l6blh0MTZNRjdRUFNldWVJalhadHZ2cjJxZFg3SUNqY2tQNkh0VWd0SWMyMlZ5R0Vtc3FPdkRnPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.319.0/Habits-1.319.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTYyYlo4dDRxbi93R2Z4c1I1Y0xTMWNWRnRMSDFld1FkZUk5M3prcXo3OUIvU0hTbEhtdjlyVmx4bHRXRkZtcXNzRGs3S3BtNGhTWFJqcW1FTjg5cFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQxMDY5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMC4wCklsZzV6dWltU3JhSXpFcUwrQ1VCYldhSERQUHIraElzQTRoaUV4ZHBiZnprRmF6YlBoMVNoWnMrc1Jxdld4bjd5Q0FtVUdvTC9hTE1ST3NjSVI0aUFBPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXluS1o2bStZOHNWZHZvNnNZYVovaEJvRE1PZkhnNHRIbVVZYVNaenhZaEVleHRrMHFnNGUvNmV3TjZzSTVDNlhwaDdZT0t4NVMwMDFDYmYrTTNaZGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI0Mzk0CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMxOS4wCkt3QVZPRVFBdTd5MTBqTFFIM1ZpendIWTJGZUp5M2l6blh0MTZNRjdRUFNldWVJalhadHZ2cjJxZFg3SUNqY2tQNkh0VWd0SWMyMlZ5R0Vtc3FPdkRnPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.319.0/Habits-1.319.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTYyYlo4dDRxbi93R2Z4c1I1Y0xTMWNWRnRMSDFld1FkZUk5M3prcXo3OUIvU0hTbEhtdjlyVmx4bHRXRkZtcXNzRGs3S3BtNGhTWFJqcW1FTjg5cFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQxMDY5CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyMC4wCklsZzV6dWltU3JhSXpFcUwrQ1VCYldhSERQUHIraElzQTRoaUV4ZHBiZnprRmF6YlBoMVNoWnMrc1Jxdld4bjd5Q0FtVUdvTC9hTE1ST3NjSVI0aUFBPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0-mac-update.app.tar.gz"
     }
   },
   "android": {
-    "versionCode": 1315000,
-    "versionName": "0.1.319",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.319.0/Habits-1.319.0.apk",
+    "versionCode": 1320000,
+    "versionName": "0.1.320",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.319.0/Habits-1.319.0-web.zip",
-      "sha256": "5664ffddb6d395e98a9de92ea5004559ae2734c33aa5d38892ae88dbd2c4f904",
-      "minBuild": 1315000
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0-web.zip",
+      "sha256": "4a41dde7083c5b019cbfb521d7aaecb7335546d6772036e7ff6996605e792e23",
+      "minBuild": 1320000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.319.0/Habits-1.319.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.319.0/Habits-1.319.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.320.0/Habits-1.320.0.apk"
   }
 }

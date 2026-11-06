@@ -1,29 +1,29 @@
 {
-  "version": "1.324.0",
-  "notes": "Lightning on Android: a lighter shower, so the storm runs smoothly.",
-  "pub_date": "2026-11-06T00:07:58.604Z",
+  "version": "1.325.0",
+  "notes": "Pin a goal card to keep it at the top, and double-tapping a friend's photo to react with fire works again.",
+  "pub_date": "2026-11-06T00:48:24.922Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTYwU2NDalBTY2pRaDR2U2N3SmpEMlIzRCt1OWlUVDBEenFSNXI1TGRrM0FBbFBCM2ZJSGxOMStSZXJ3djIybm5Vc1ZCTXBVUUowZEsvTnUxbXFyVWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIzNjM1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyNC4wCnNzM2o2Q1BhUG51RjBDSWdjUWdBSGR2cXhWUEFJYTFBdDFpbktVSEJyVis3eVYxaWhhd25vM000aWlkUjYrSzZyb3VIaWExaW9OT3lnS3ZXQm5wN0R3PT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.324.0/Habits-1.324.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXgrRVEveWIyU1R1Q0gwNVBuZTNoTVkzWVFMWHkrcEFRbndhMmdKMmtpNFF6YzhrVmNOaFYrTVZ2WEpoaDNxSTVkVWtCQlY4UUlkTFR0TTZoRVRUbHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI2MDU0CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyNS4wCmUzaDlwc1kxWFRZdG9ZVVM1cE51T2hWNWk0S2xReDgwY0FMeTY4NlRNdUtuTWRkUHcrdmEwRy96L3JxbTZyQURTdTdTYWJDNG5WaGxTS3JwYnJTOUNnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.325.0/Habits-1.325.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTYwU2NDalBTY2pRaDR2U2N3SmpEMlIzRCt1OWlUVDBEenFSNXI1TGRrM0FBbFBCM2ZJSGxOMStSZXJ3djIybm5Vc1ZCTXBVUUowZEsvTnUxbXFyVWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIzNjM1CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyNC4wCnNzM2o2Q1BhUG51RjBDSWdjUWdBSGR2cXhWUEFJYTFBdDFpbktVSEJyVis3eVYxaWhhd25vM000aWlkUjYrSzZyb3VIaWExaW9OT3lnS3ZXQm5wN0R3PT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.324.0/Habits-1.324.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcXgrRVEveWIyU1R1Q0gwNVBuZTNoTVkzWVFMWHkrcEFRbndhMmdKMmtpNFF6YzhrVmNOaFYrTVZ2WEpoaDNxSTVkVWtCQlY4UUlkTFR0TTZoRVRUbHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI2MDU0CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyNS4wCmUzaDlwc1kxWFRZdG9ZVVM1cE51T2hWNWk0S2xReDgwY0FMeTY4NlRNdUtuTWRkUHcrdmEwRy96L3JxbTZyQURTdTdTYWJDNG5WaGxTS3JwYnJTOUNnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.325.0/Habits-1.325.0-mac-update.app.tar.gz"
     }
   },
   "android": {
     "versionCode": 1323000,
-    "versionName": "0.1.324",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.324.0/Habits-1.324.0.apk",
+    "versionName": "0.1.325",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.325.0/Habits-1.325.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.324.0/Habits-1.324.0-web.zip",
-      "sha256": "e7818907b81cb5210d4bb6d0b0732cd487bd69c5a9aec96498db351db49684dc",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.325.0/Habits-1.325.0-web.zip",
+      "sha256": "8c84735335e8fafd44079a07651f08a656542a3de5b2f38431161e887147e1f1",
       "minBuild": 1323000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.324.0/Habits-1.324.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.324.0/Habits-1.324.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.325.0/Habits-1.325.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.325.0/Habits-1.325.0.apk"
   }
 }

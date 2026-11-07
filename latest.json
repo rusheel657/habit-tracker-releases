@@ -1,29 +1,29 @@
 {
-  "version": "1.326.0",
-  "notes": "Are my habits good? The AI checks your habits against your goals and suggests what to keep, remove and add, with one-tap buttons.",
-  "pub_date": "2026-11-06T16:44:04.522Z",
+  "version": "1.327.0",
+  "notes": "The habit review now shows as cards, with a scanning animation while the AI thinks.",
+  "pub_date": "2026-11-07T02:14:16.537Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTlrL1pvRXpybkRNdkpDS25RcERVRHl2dHpqNTA0MmRIcHJONTR6RW1hUkc1a3BBdWVtY3lPQ294SnRTaEUyalRFVmk5M0pvM1g4SHcrUTdQb1IrSFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgzNDEwCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyNi4wClRkZHBrZkVXR1VTa1lrQkVSS1NYaEhkSWdsb0NIamdjYkg0NTloRDBERGdGTFZpQ3c3U1FkWE4zMVNOZ3I2VjBxRDhoaTZpQWJVWVkzV0llcWduU0RBPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.326.0/Habits-1.326.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTQ4N0RiUWdKdGNveW5DTE5LY3ZNN1dmdWwySUxYZEdkaHU2UGROZEdkQmZya2NLTm9XQ3VyQ1l0VXJwL0pqTXlwaDd6ei9NUXJpOVhXbW5XTmZkSlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE3NjIyCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyNy4wClN2cldlVWU0RHFZNHVMVUFURUNwR29pN2xHdEYrWlZqMndJOWk3ZGg4WTlqdlNmbWNVQlYwNlp3R1BQZ3RVL0UvdUhwdm1uVGpSNk10SzBJWGtxRkFnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.327.0/Habits-1.327.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTlrL1pvRXpybkRNdkpDS25RcERVRHl2dHpqNTA0MmRIcHJONTR6RW1hUkc1a3BBdWVtY3lPQ294SnRTaEUyalRFVmk5M0pvM1g4SHcrUTdQb1IrSFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgzNDEwCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyNi4wClRkZHBrZkVXR1VTa1lrQkVSS1NYaEhkSWdsb0NIamdjYkg0NTloRDBERGdGTFZpQ3c3U1FkWE4zMVNOZ3I2VjBxRDhoaTZpQWJVWVkzV0llcWduU0RBPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.326.0/Habits-1.326.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTQ4N0RiUWdKdGNveW5DTE5LY3ZNN1dmdWwySUxYZEdkaHU2UGROZEdkQmZya2NLTm9XQ3VyQ1l0VXJwL0pqTXlwaDd6ei9NUXJpOVhXbW5XTmZkSlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE3NjIyCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMyNy4wClN2cldlVWU0RHFZNHVMVUFURUNwR29pN2xHdEYrWlZqMndJOWk3ZGg4WTlqdlNmbWNVQlYwNlp3R1BQZ3RVL0UvdUhwdm1uVGpSNk10SzBJWGtxRkFnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.327.0/Habits-1.327.0-mac-update.app.tar.gz"
     }
   },
   "android": {
     "versionCode": 1323000,
-    "versionName": "0.1.326",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.326.0/Habits-1.326.0.apk",
+    "versionName": "0.1.327",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.327.0/Habits-1.327.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.326.0/Habits-1.326.0-web.zip",
-      "sha256": "965be57cd9eb6a538fed32c5c3973031dba0f24fc87b6454ab4bbb09206cb016",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.327.0/Habits-1.327.0-web.zip",
+      "sha256": "a92ea916361ce778c6b2490d2d468929145f17b836f26f8d17fbd9641898d40d",
       "minBuild": 1323000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.326.0/Habits-1.326.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.326.0/Habits-1.326.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.327.0/Habits-1.327.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.327.0/Habits-1.327.0.apk"
   }
 }

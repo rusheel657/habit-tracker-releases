@@ -1,29 +1,29 @@
 {
-  "version": "1.338.0",
-  "notes": "Sapphire Ice reimagined, honest page counts, themed Breathe and Calendar, menu and Breathe fixes",
-  "pub_date": "2026-11-12T10:23:31.254Z",
+  "version": "1.339.0",
+  "notes": "A brand new dark website, books that download to your other devices, setup without Skip",
+  "pub_date": "2026-11-12T12:56:22.217Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZjUW1oTTRzamVnc0tlOVg2MkIzZVh6aEFLU1FIZkFOeVpVdW5UNkY4MENOaE5BQjhramUwMmZLYndIM1VLTllJVjVBS3dHS1ZnUGhHeDNEZ1JYVUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc4OTUzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMzOC4wCjU4UlBPTENzQmZnZmtLYVlMNXJwVnE5M0ZQVER6Q1QzeGZVbE53Y1FOTHQzeHBITjVhcXFnZzVoM1YzYjVSWDJIc1JvdCswREpSRjJuYzNSVkViM0NRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.338.0/Habits-1.338.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcStwV0orZE1Oc3ZOOW5raWxFOGFwWHhSSnd0Y0hTalhhSy92WVgxRnVqaEg5Uk5FeXRyQUVQTHZuNEw5bU8wUzZqNTAyVlBQMTdVMjEyckNoOXRRZEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDg4MTc2CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMzOS4wCnBjS05vRm5FU0pQWW9lOEFVQkk1NEcvMmx1RmFoeUJzTjRETmFESEIvUjVKWkZLZjJncVZXWGZpdVZCbCtTWFVIa242UjZlUHozQ1h0eFdoNFVOaUNnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.339.0/Habits-1.339.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTZjUW1oTTRzamVnc0tlOVg2MkIzZVh6aEFLU1FIZkFOeVpVdW5UNkY4MENOaE5BQjhramUwMmZLYndIM1VLTllJVjVBS3dHS1ZnUGhHeDNEZ1JYVUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc4OTUzCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMzOC4wCjU4UlBPTENzQmZnZmtLYVlMNXJwVnE5M0ZQVER6Q1QzeGZVbE53Y1FOTHQzeHBITjVhcXFnZzVoM1YzYjVSWDJIc1JvdCswREpSRjJuYzNSVkViM0NRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.338.0/Habits-1.338.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcStwV0orZE1Oc3ZOOW5raWxFOGFwWHhSSnd0Y0hTalhhSy92WVgxRnVqaEg5Uk5FeXRyQUVQTHZuNEw5bU8wUzZqNTAyVlBQMTdVMjEyckNoOXRRZEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDg4MTc2CWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMzOS4wCnBjS05vRm5FU0pQWW9lOEFVQkk1NEcvMmx1RmFoeUJzTjRETmFESEIvUjVKWkZLZjJncVZXWGZpdVZCbCtTWFVIa242UjZlUHozQ1h0eFdoNFVOaUNnPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.339.0/Habits-1.339.0-mac-update.app.tar.gz"
     }
   },
   "android": {
     "versionCode": 1323000,
-    "versionName": "0.1.338",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.338.0/Habits-1.338.0.apk",
+    "versionName": "0.1.339",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.339.0/Habits-1.339.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.338.0/Habits-1.338.0-web.zip",
-      "sha256": "5ebc804ba639edee2ea495db99c21b4eca788982599a02ab0373da845e19fa57",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.339.0/Habits-1.339.0-web.zip",
+      "sha256": "c659206d71ff8c6f88cb7865ea648d4620d7163b06a3f16bbfe97b4266bb0000",
       "minBuild": 1323000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.338.0/Habits-1.338.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.338.0/Habits-1.338.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.339.0/Habits-1.339.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.339.0/Habits-1.339.0.apk"
   }
 }

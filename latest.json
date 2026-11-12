@@ -1,29 +1,29 @@
 {
-  "version": "1.334.0",
-  "notes": "New Reading page; report and block; EPUB pages count automatically; safer under-18 defaults; bad habit ticking fix",
-  "pub_date": "2026-11-11T18:16:14.476Z",
+  "version": "1.335.0",
+  "notes": "Notion-style Journal writing and templates; Breathe daily goal back; volume icon; cleaner sidebar",
+  "pub_date": "2026-11-12T03:18:38.063Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTdEUTZ2Sk1nWXlpamUxWlQrbWd6dWJWTjUrcktqUEZkK2FpT3NEUlExcm5ISjdDbUk3OXEveFJramVScklkWWlDMVFsZ2VINUxZUC9mTjNRMEEwQVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDIwOTMyCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMzNC4wCkNEdXlQbHppM1FnRjJmaDV3d0V1UkFFOWVXd0pEd0VBWmNFdk1lRUlvTm9QeHEzTmN6K3lLbmwzKzFWektXamdzYzFHRFdMRG9CU2t3Tnl1UHY3akNRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.334.0/Habits-1.334.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTgrK2ZSR0U0YnI0RE5mSm5WVjNsL1NGanRwQ1pNUUlQaVpDRlpxZ0FpUjU5b2U1ZjMyU05yczJ4cUVrNmQ0eitFSDVGbW5wdFc0ZWRmN2gxejUrSGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUzNDYwCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMzNS4wCllOcVdhNDRoMzVQMG1HWlZJMXZGVzJDd3pPNEdqTmpMQVRXZXJ5RGkvcElYQ3h5SWRmSlpZYjFUdHJFeFlkbkdHTVMvcWFpNUxOL1hCOHNDZ3NGV0RRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.335.0/Habits-1.335.0-mac-update.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTdEUTZ2Sk1nWXlpamUxWlQrbWd6dWJWTjUrcktqUEZkK2FpT3NEUlExcm5ISjdDbUk3OXEveFJramVScklkWWlDMVFsZ2VINUxZUC9mTjNRMEEwQVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDIwOTMyCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMzNC4wCkNEdXlQbHppM1FnRjJmaDV3d0V1UkFFOWVXd0pEd0VBWmNFdk1lRUlvTm9QeHEzTmN6K3lLbmwzKzFWektXamdzYzFHRFdMRG9CU2t3Tnl1UHY3akNRPT0K",
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.334.0/Habits-1.334.0-mac-update.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbUpmTjBQbXBNcTgrK2ZSR0U0YnI0RE5mSm5WVjNsL1NGanRwQ1pNUUlQaVpDRlpxZ0FpUjU5b2U1ZjMyU05yczJ4cUVrNmQ0eitFSDVGbW5wdFc0ZWRmN2gxejUrSGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUzNDYwCWZpbGU6SGFiaXRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMzNS4wCllOcVdhNDRoMzVQMG1HWlZJMXZGVzJDd3pPNEdqTmpMQVRXZXJ5RGkvcElYQ3h5SWRmSlpZYjFUdHJFeFlkbkdHTVMvcWFpNUxOL1hCOHNDZ3NGV0RRPT0K",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.335.0/Habits-1.335.0-mac-update.app.tar.gz"
     }
   },
   "android": {
     "versionCode": 1323000,
-    "versionName": "0.1.334",
-    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.334.0/Habits-1.334.0.apk",
+    "versionName": "0.1.335",
+    "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.335.0/Habits-1.335.0.apk",
     "bundle": {
-      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.334.0/Habits-1.334.0-web.zip",
-      "sha256": "ae42c3240b8981c75d32f93eddf3564dfae5496d687c55a73cca270d93bb4192",
+      "url": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.335.0/Habits-1.335.0-web.zip",
+      "sha256": "025954f891a2ee40d129379080b24d13017e416bec2e83a72c1a8859b49a877a",
       "minBuild": 1323000
     }
   },
   "downloads": {
-    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.334.0/Habits-1.334.0.dmg",
-    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.334.0/Habits-1.334.0.apk"
+    "mac": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.335.0/Habits-1.335.0.dmg",
+    "android": "https://github.com/rusheel657/habit-tracker-releases/releases/download/v1.335.0/Habits-1.335.0.apk"
   }
 }
